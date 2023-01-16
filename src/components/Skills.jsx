@@ -10,6 +10,7 @@ import Dart from '../assets/dart.png';
 import Mysql from '../assets/mysql.png';
 import Java from '../assets/java.png';
 import Python from '../assets/python.png';
+import Tailwind from '../assets/tailwind.png';
 
 
 
@@ -64,6 +65,10 @@ const Skills = () => {
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Python} alt="HTML icon" />
                   <p className='my-4'>PYTHON</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Tailwind} alt="HTML icon" />
+                  <p className='my-4'>TAILWINDCSS</p>
               </div>
           </div>
       </div>

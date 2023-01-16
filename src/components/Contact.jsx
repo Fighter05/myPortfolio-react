@@ -20,7 +20,6 @@ const Contact = () => {
           <p className='text-gray-300 py-4'>Line - <span className='text-yellow-300'>fight.sint</span></p>
           <p className='text-gray-300 py-4'>Tel - <span className='text-yellow-300'>(+66) 928070245</span></p>
           <p className='text-gray-300 py-4'>Location - <span className='text-yellow-300'>Bangkok, Thailand 10230</span></p>
-
         </div>
     </div>
   )
