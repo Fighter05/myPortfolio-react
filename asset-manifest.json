@@ -1,12 +1,16 @@
 {
   "files": {
     "main.css": "/myPortfolio-react/static/css/main.07cc8168.css",
-    "main.js": "/myPortfolio-react/static/js/main.c977d5e8.js",
+    "main.js": "/myPortfolio-react/static/js/main.6b96be34.js",
     "static/media/about.png": "/myPortfolio-react/static/media/about.d9164637f93c071fd3ba.png",
     "static/media/proj2.png": "/myPortfolio-react/static/media/proj2.d814b8b7e9abed28550c.png",
+    "static/media/proj5.png": "/myPortfolio-react/static/media/proj5.3f27611cd92c329b2c9a.png",
     "static/media/proj1.png": "/myPortfolio-react/static/media/proj1.0bfc0f790b4b8f2ba40b.png",
-    "static/media/Fight-resume.pdf": "/myPortfolio-react/static/media/Fight-resume.07941f63efea488ab910.pdf",
+    "static/media/proj6.png": "/myPortfolio-react/static/media/proj6.d98c63b28c77cfe86f82.png",
+    "static/media/proj4.png": "/myPortfolio-react/static/media/proj4.44e5c8fa292f2e2af29d.png",
+    "static/media/Fight-resume.pdf": "/myPortfolio-react/static/media/Fight-resume.e18e9c0bd7f8aa17b29b.pdf",
     "static/media/proj3.png": "/myPortfolio-react/static/media/proj3.ecd168decfb28bcf0347.png",
+    "static/media/tailwind.png": "/myPortfolio-react/static/media/tailwind.9c2e5bcf4f97d73e438e.png",
     "static/media/python.png": "/myPortfolio-react/static/media/python.6b0704947c3fa2110b1f.png",
     "static/media/react.png": "/myPortfolio-react/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/mysql.png": "/myPortfolio-react/static/media/mysql.5e355d2d9b4fcbcca57c.png",
@@ -19,10 +23,10 @@
     "static/media/javascript.png": "/myPortfolio-react/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/myPortfolio-react/index.html",
     "main.07cc8168.css.map": "/myPortfolio-react/static/css/main.07cc8168.css.map",
-    "main.c977d5e8.js.map": "/myPortfolio-react/static/js/main.c977d5e8.js.map"
+    "main.6b96be34.js.map": "/myPortfolio-react/static/js/main.6b96be34.js.map"
   },
   "entrypoints": [
     "static/css/main.07cc8168.css",
-    "static/js/main.c977d5e8.js"
+    "static/js/main.6b96be34.js"
   ]
 }
