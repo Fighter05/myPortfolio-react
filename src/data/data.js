@@ -42,14 +42,14 @@ export const data=[
         name:"Gaming Web Project",
         image:Cyborg,
         github:"https://github.com/Fighter05/react-cyborg-gaming-template",
-        live:"",
+        live:"https://react-cyborg-gaming.vercel.app/",
     },
     {
         id:6,
         name:"Login Register and Img Carousel Project",
         image:ImgCarousel,
         github:"https://github.com/Fighter05/react-img-carousel",
-        live:"",
+        live:"https://react-img-carousel.vercel.app/",
     },
 
 
