@@ -9,7 +9,7 @@ const Work = () => {
     //setProject(data);
   
   return (
-    <div name='portfolio' className='w-full md:h-screen text-gray-300 bg-[#1B1C1E]'>
+    <div name='portfolio' className='w-full h-auto md:h-screen text-gray-300 bg-[#1B1C1E]'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-yellow-300'>
@@ -26,7 +26,7 @@ const Work = () => {
   <div
     key={index}
     style={{ backgroundImage: `url(${item.image})` }}
-    className="shadow-lg shadow-[#040c16] group container rounded-md 
+    className="shadow-lg shadow-[#040c16] group container rounded-md h-full
               flex justify-center text-center items-center mx-auto content-div
               transition ease-in-out hover:scale-105 hover:duration-300"
   >
